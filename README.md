@@ -84,7 +84,5 @@ Error from server (Forbidden): rolebindings.authorization.openshift.io is forbid
 
 [matt@openshift-master3 ~]# oc delete project matt
 project.project.openshift.io "matt" deleted
-[root@openshift-master3 ~]#
-
 ```
 
